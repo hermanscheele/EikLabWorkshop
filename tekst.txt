@@ -4,3 +4,6 @@ herman
 
 
 merge conflict
+
+
+dette er ny tekst i branch_A
