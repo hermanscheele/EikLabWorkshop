@@ -6,4 +6,4 @@ herman
 merge conflict
 
 
-Dette er ny endring i branch a fra ny branch
+
