@@ -2,5 +2,14 @@ Dette er en ny tekst
 agob
 herman
 
+<<<<<<< HEAD
 
 merge conflict
+=======
+spaces = 4
+
+a = 4
+b = 5
+
+print("hello world")
+>>>>>>> 1f86e2417526a02f20bc56d023fbbd5ae43243b2
