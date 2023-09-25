@@ -1,1 +1,1 @@
-Dette er en README fil til EIKLAB GitHub workshop
+Dette er en helt ny tekst
