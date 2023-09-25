@@ -1,1 +1,1 @@
-Dette er en helt ny tekst
+Dette er en readme fil for Eik Lab workshoppen

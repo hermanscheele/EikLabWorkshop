@@ -1,1 +1,1 @@
-Dette er en tekst fil i den nye grenen
+Dette er en ny tekst
