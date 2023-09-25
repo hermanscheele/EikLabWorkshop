@@ -1,0 +1,1 @@
+Dette er en README fil til EIKLAB GitHub workshop
