@@ -1,3 +1,6 @@
 Dette er en ny tekst
 agob
 herman
+
+
+merge conflict
